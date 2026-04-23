@@ -138,6 +138,10 @@ article h2 {
   margin-bottom: 10px;
 }
 
+#video {
+  display: none;
+}
+
 .video-container {
   position: relative;
   width: 100%;
@@ -253,6 +257,12 @@ article h2 {
   object-fit: cover;
   overflow: hidden;
   border-radius: 8px;
+}
+
+
+
+.description ul {
+  margin-left: 20px;
 }
 
 footer {
