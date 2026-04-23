@@ -259,7 +259,10 @@ article h2 {
   border-radius: 8px;
 }
 
-
+#projeto-container .foto:hover {
+  transform: scale(1.05);
+  
+}
 
 .description ul {
   margin-left: 20px;
